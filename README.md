@@ -1,6 +1,6 @@
 BizzleLib.coffee
 ================
 
-My CoffeeScript library for handy structures I missed from Scala.
+A CoffeeScript library of Scala-inspired structures.
 
 **More info and complete code soon.**
